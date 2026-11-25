@@ -1,7 +1,8 @@
-Ник: Artem2311
-Score: 0.62094
+**Ник:** Artem2311
+**Score:** 0.62094
 
 ## Лучшие гиперпараметры модели
+```python
 CatBoostRanker(
     loss_function='YetiRank',
     iterations=500,
